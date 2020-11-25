@@ -15,7 +15,7 @@ github_repo: "soumendra.io"
 # OPTIONAL: override baseurl and url if using a custom domain
 # Note: leave out the trailing / from this value. 
 url: "https://soumendra.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-baseurl: "/"
+# baseurl: "/"
 
 ###########################################################
 #########  Special Instructions for baseurl ###############
